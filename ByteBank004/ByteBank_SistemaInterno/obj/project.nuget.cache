@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bRUmrdn7JeS/LZdx7POK8SdQGuKm0vsxLRP6JlUyyCYPZ4YHrMtRLGBrrqLSEulVkYcO/dNOl3xrJrk4iL+Y6g==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Alura\\C#\\Curso5\\ByteBank004\\ByteBank_SistemaInterno\\ByteBank_SistemaInterno.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Framework\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
